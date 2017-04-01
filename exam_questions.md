@@ -6,7 +6,7 @@
 
 App 顯示的畫面原本是 Main.storyboard 中左邊的白色畫面，請讓它變成顯示右邊的藍色畫面
 
-![](https://i.imgur.com/Nm7uUt0.jpg)
+![](/assets/01.jpg)
 
 
 ## 考題二
