@@ -34,8 +34,8 @@
 第七章 | 第一次程式親密接觸 | [Ch07][Ch07]
 第八章 | 擇偶條件 App 結合程式和畫面 | [Ch08][Ch08]
 
-[Ch01]: https://goo.gl/UstBaZ
-[Ch02]: https://goo.gl/LCAlnf
+[Ch01]: slide/Ch01.pdf
+[Ch02]: slide/Ch02.pdf
 [Ch03]: https://goo.gl/qRHULI
 [Ch04]: https://goo.gl/X0fHCM
 [Ch05]: https://goo.gl/O3cg9q
