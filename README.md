@@ -25,7 +25,7 @@
 
 章節 | 內容 | 投影片
 :---:| --- | :---:
-第一章 | 課程目標和準備事項 | [Ch01][Ch01]
+第一章 | 課程目標和準備事項 | [Ch01][slide/Ch01.pdf]
 第二章 | Xcode 的第一次親密接觸 | [Ch02][Ch02]
 第三章 | 版本管理理和 App 分享  | [Ch03][Ch03]
 第四章 | 設計App畫面的 storyboard | [Ch04][Ch04]
@@ -34,7 +34,7 @@
 第七章 | 第一次程式親密接觸 | [Ch07][Ch07]
 第八章 | 擇偶條件 App 結合程式和畫面 | [Ch08][Ch08]
 
-[Ch01]: slide/Ch01.pdf
+[Ch01]: 
 [Ch02]: slide/Ch02.pdf
 [Ch03]: https://goo.gl/qRHULI
 [Ch04]: https://goo.gl/X0fHCM
