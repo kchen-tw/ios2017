@@ -14,7 +14,8 @@ App 顯示的畫面原本是 Main.storyboard 中左邊的白色畫面，請讓�
 
 將 Main.storyboard 裡畫面的顏色設為 Red 100, Green 80, Blue 250，如下圖所示
 
-![](https://i.imgur.com/vodZSFj.jpg)
+![](/assets/02.jpg)
+
 
 ## 考題三
 
