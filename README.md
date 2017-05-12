@@ -25,14 +25,14 @@
 
 章節 | 內容 | 投影片
 :---:| --- | :---:
-第一章 | 課程目標和準備事項 | [Ch01](/slide/Ch01.pdf)
-第二章 | Xcode 的第一次親密接觸 | [Ch02](/slide/Ch02.pdf)
-第三章 | 版本管理理和 App 分享  | [Ch03](/slide/Ch03.pdf)
-第四章 | 設計App畫面的 storyboard | [Ch04](/slide/Ch04.pdf)
-第五章 | 多頁面設計 | [Ch05](/slide/Ch05.pdf)
-第六章 | 使用表格實作一秒落淚 App | [Ch06](/slide/Ch06.pdf)
-第七章 | 第一次程式親密接觸 | [Ch07](/slide/Ch07.pdf)
-第八章 | 擇偶條件 App 結合程式和畫面 | [Ch08](/slide/Ch08.pdf)
+第一章 | 課程目標和準備事項 | [Ch01](slide/Ch01.pdf)
+第二章 | Xcode 的第一次親密接觸 | [Ch02](slide/Ch02.pdf)
+第三章 | 版本管理理和 App 分享  | [Ch03](slide/Ch03.pdf)
+第四章 | 設計App畫面的 storyboard | [Ch04](slide/Ch04.pdf)
+第五章 | 多頁面設計 | [Ch05](slide/Ch05.pdf)
+第六章 | 使用表格實作一秒落淚 App | [Ch06](slide/Ch06.pdf)
+第七章 | 第一次程式親密接觸 | [Ch07](slide/Ch07.pdf)
+第八章 | 擇偶條件 App 結合程式和畫面 | [Ch08](slide/Ch08.pdf)
 
 
 ---
